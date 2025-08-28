@@ -50,7 +50,7 @@ poetry run python main.py --data_path data.csv --model_type lightgbm
 
 ## Roadmap / TODO
 
-- [ ] Hyperparameter tuning with Optuna  
-- [ ] Fetch market & system data directly from TSOs APIs  
-- [ ] Add support for more models (RandomForest, Neural Nets)  
-- [ ] Dockerize for reproducible training  
+- Hyperparameter tuning with Optuna  
+- Fetch market & system data directly from TSOs APIs  
+- Add support for more models (RandomForest, Neural Nets)  
+- Dockerize for reproducible training  
