@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "saturn"
+version = "0.1.0"
+description = "ML models and analysis"
+authors = ["qmlai <quantitativeml@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{ include = "saturn" }]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+numpy = "^2.3.2"
+pandas = "^2.3.1"
+holidays = "^0.79"
+scikit-learn = "1.7.1"
+tqdm = "^4.67.1"
+plotly = "^6.3.0"
+xgboost = "^3.0.4"
+lightgbm = "^4.6.0"
+catboost = "^1.2.8"
+charset-normalizer = "^3.4.3"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.4"
+
+[build-system]
+requires = ["poetry-core>=1.5.1"]
+build-backend = "poetry.core.masonry.api"
