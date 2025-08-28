@@ -1,4 +1,4 @@
-# ml_models
+# saturn
 
 This repository provides a framework to train machine learning classifiers (LightGBM, XGBoost, CatBoost) on spread data, generate classification reports, and evaluate trading performance using backtests. It is designed for time series classification problems where features include lagged values, rolling statistics, and calendar effects (holidays, time-of-day, etc.). 
 
