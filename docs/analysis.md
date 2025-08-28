@@ -1,6 +1,21 @@
 # Model Performance Summary
 
-# AUC
+# AUC XGBoost
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/546f14af-322e-4600-9314-157bb3df4ff2" />
+
+# AUC LightGBM
+
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/48ef27fb-7e19-4075-a6a4-a5f1aca7d096" />
+
+# PnL XGBoost
+
+<img width="1466" height="825" alt="image" src="https://github.com/user-attachments/assets/f7c98453-5ab0-4085-afa4-26bc1f0ac76e" />
+
+# PnL LightGBM
+
+<img width="1466" height="825" alt="image" src="https://github.com/user-attachments/assets/bd1c9cac-ffac-42c4-8d1b-8d8336424610" />
+
+
 
 ---
 
