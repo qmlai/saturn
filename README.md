@@ -42,6 +42,10 @@ poetry run python main.py --data_path data.csv --model_type lightgbm
 - ROC curve plotted with AUC annotation.
 - Trading report: aggregated PnL by day/hour, long/short trade breakdown, Sharpe ratio metrics.
 
+## Analysis 
+Both XGBoost and a LightGBM models have been trained and evaluated. The results can be found [here](https://github.com/qmlai/saturn/blob/main/docs/analysis.md)
+
+
 ## Extending
 - Modify DataPreprocessor to add/remove features.
 - Adjust hyperparameters in main.py.
